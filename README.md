@@ -57,4 +57,7 @@ uffffff
 - > https://www.investopedia.com/terms/o/open-banking.asp
 - > https://www.forbes.com/sites/martinrivers/2021/06/15/how-bitcoin-can-fix-global-inequality-one-developing-nation-at-a-time/?sh=41479362aa5f
 - > https://www.borgenmagazine.com/bitcoin-in-el-salvador/
-https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
+- > https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
+- > https://www.concourt.am/armenian/legal_resources/world_constitutions/constit/salvador/salvdr-s.htm
+- > https://cointelegraph.com/news/el-salvador-buys-a-smokin-hot-420-more-bitcoin
+todo bien
