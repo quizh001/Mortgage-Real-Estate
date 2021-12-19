@@ -41,20 +41,17 @@ The oposite party has oppose to the policy on the monetary system and the judici
 * The president has said the way they measure succesess is by reaching out it 70% of unbank comunites, also that is why he used the article 7,8, and 12 to pass and force the country to adpt of Bitcoin. The performance on Bitcoin Beach is fenomenal base on some article, other part of the country the are some protect, altought this come from the opposit party trying to overturn the President decision.
 
 
-
-
-
 ## Recommendations
-* The biggest recomendation to el Salvador will be to adapt satalite technology for it internet service, one potetial could be starlink, this product the competitors will not be able to purchase or lease since the privide sector do care for it profits 
+* The biggest recomendation to el Salvador will be to adapt satalite technology for it internet service, one potetial could be starlink, this product the competitors will not be able to purchase or lease since the privide sector do care for it profits.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* By parneting with startlink El Salvador will have the fastest internet in the planet and trully 100% of its popuilartion will benefit. 
 
-* Why do you think that offering this product or service would benefit the companyrtwq?
+Addition techology that El Salvador can use it Blockchain technology on it country from smart cars to smart cities, one example that can be use or blueprint is from Dubai, they have the "experiance and knowledge on how" DR. AISHA BIN BISHR DIRECTOR GENERAL OF SMART DUBAI UNITED ARAB EMIRATES
+*
 
-* What technologies would this additional product or service utilize?
+* The Blockchain technology is a new technology that is emergying rapidly do to is simplicity and decentralize that help curroption and it speed the process of  doing business as we  know therefore saving time and moeny to the population.
 
-* Why are these technologies appropriate for your solution?
-uffffff
+
 - > https://foreignpolicy.com/2021/09/17/el-salvador-bitcoin-law-farce/
 - > https://youtu.be/qdx_alPrmVY
 - > https://coinmarketcap.com/alexandria/article/bitcoin-jumps-as-fed-sets-out-plan-for-2022
@@ -64,7 +61,7 @@ uffffff
 - https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
 - https://www.concourt.am/armenian/legal_resources/world_constitutions/constit/salvador/salvdr-s.htm
 - https://cointelegraph.com/news/el-salvador-buys-a-smokin-hot-420-more-bitcoin
-todo bien
 - https://markets.businessinsider.com/news/currencies/el-salvador-bitcoin-beach-began-with-donated-crypto-fortune-2021-6
 - https://www.elsalvador.com/noticias/negocios/adopcion-bitcoin-cuesta-238-3-millones-salvadorenos/877400/2021/
 - https://www.cityam.com/more-countries-line-up-to-make-bitcoin-legal-tender-which-one-will-be-next/
+* https://youtu.be/I6fadL-0VRw
