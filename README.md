@@ -44,20 +44,21 @@
 * Addition technology that El Salvador can use is Blockchain technology on its country from smart cars to smart cities, one example that can be use its blueprint is from Dubai, they have the "experience and knowledge on the how" DR. AISHA BIN BISHR DIRECTOR GENERAL OF SMART DUBAI UNITED ARAB EMIRATES
 
 * The Blockchain technology is a new technology that is emerging rapidly do to is simplicity and decentralize that will help minimize corruption and speed the process of  doing business, therefore saving time and money to the population and increasing in the country productivity.
+---
 
-- https://foreignpolicy.com/2021/09/17/el-salvador-bitcoin-law-farce/
-- https://youtu.be/qdx_alPrmVY
-- https://coinmarketcap.com/alexandria/article/bitcoin-jumps-as-fed-sets-out-plan-for-2022
-- https://www.investopedia.com/terms/o/open-banking.asp
-- https://www.forbes.com/sites/martinrivers/2021/06/15/how-bitcoin-can-fix-global-inequality-one-developing-nation-at-a-time/?sh=41479362aa5f
-- https://www.borgenmagazine.com/bitcoin-in-el-salvador/
-- https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
-- https://www.concourt.am/armenian/legal_resources/world_constitutions/constit/salvador/salvdr-s.htm
-- https://cointelegraph.com/news/el-salvador-buys-a-smokin-hot-420-more-bitcoin
-- https://markets.businessinsider.com/news/currencies/el-salvador-bitcoin-beach-began-with-donated-crypto-fortune-2021-6
-- https://www.elsalvador.com/noticias/negocios/adopcion-bitcoin-cuesta-238-3-millones-salvadorenos/877400/2021/
-- https://www.cityam.com/more-countries-line-up-to-make-bitcoin-legal-tender-which-one-will-be-next/
-- https://youtu.be/I6fadL-0VRw
-- https://www.latimes.com/world-nation/story/2021-06-22/in-el-salvadors-bitcoin-beach
-- https://www.businessofbusiness.com/articles/what-is-strike-El-Salvador-bitcoin-announcement/
-- https://www.ibm.com/topics/what-is-blockchain
+- > https://foreignpolicy.com/2021/09/17/el-salvador-bitcoin-law-farce/
+- > https://youtu.be/qdx_alPrmVY
+- > https://coinmarketcap.com/alexandria/article/bitcoin-jumps-as-fed-sets-out-plan-for-2022
+- > https://www.investopedia.com/terms/o/open-banking.asp
+- > https://www.forbes.com/sites/martinrivers/2021/06/15/how-bitcoin-can-fix-global-inequality-one-developing-nation-at-a-time/?sh=41479362aa5f
+- > https://www.borgenmagazine.com/bitcoin-in-el-salvador/
+- > https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
+- > https://www.concourt.am/armenian/legal_resources/world_constitutions/constit/salvador/salvdr-s.htm
+- > https://cointelegraph.com/news/el-salvador-buys-a-smokin-hot-420-more-bitcoin
+- > https://markets.businessinsider.com/news/currencies/el-salvador-bitcoin-beach-began-with-donated-crypto-fortune-2021-6
+- > https://www.elsalvador.com/noticias/negocios/adopcion-bitcoin-cuesta-238-3-millones-salvadorenos/877400/2021/
+- > https://www.cityam.com/more-countries-line-up-to-make-bitcoin-legal-tender-which-one-will-be-next/
+- > https://youtu.be/I6fadL-0VRw
+- > https://www.latimes.com/world-nation/story/2021-06-22/in-el-salvadors-bitcoin-beach
+- > https://www.businessofbusiness.com/articles/what-is-strike-El-Salvador-bitcoin-announcement/
+- > https://www.ibm.com/topics/what-is-blockchain
