@@ -24,17 +24,16 @@
 
 ## Landscape:
 
-* Blockchin is been adapted by Govenmental area, service the best interest of its people, 
+* The Goverment is there to provide and promote oportunity for is citezen, in this particular area the goverment is fixing is the finacial industry been more specify the banking system. 
 
-* El Slavador is the first coubtry to adopt Bitcoin as legal tender, is a mixt feeling, howevcer the President had annount the he will build a city call Bitcoin city near a volcano to use it geothermal energy and it will be completly be founded by bitcoin, also he dream schools and hospital be build funded by Bitcoin
+* El Salvador is the first country to adopt Bitcoin as legal tender, changing the entire finacial system, moreover the President has announce that goverment will build a free tax city call Bitcoin city near a volcano, they will use its geothermal energy to power the city and mined bitcoin and it will be completly funded by bitcoin, he also dreams schools and hospital be build funded by Bitcoin.
 
-* other country adaoting to Bitcoin has not happend recetly, however there area lsit of country on serious talk like: Paraguay, Panama, Mexico, Venezuel, Brazil, Nicaragua, Argentina and Malta.
+* Other country on board to adopt to Bitcoin and are in serious talk are: Paraguay, Panama, Mexico, Venezuela, Brazil, Nicaragua, Argentina and Malta. Although El Salvador is a friedly country when it comes to properties taxes and has the advange for investor.
 ## Results
 
-* The beggest impact the El Salvador has is that they change the fiancial system by reaching it 70% of unbank comunity, El Salvador develope alone the company Strick an app called el Chivo Wallet (cool) to recive and pay with Bitcoin or Dollars 
-The oposite party has oppose to the policy on the monetary system and the judiciary system.
+* The biggest impact that El Salvador has is that they fixed the fiancial system by reaching to its 70% of unbank population, El Salvador has developed alone the company Strick an app called el Chivo Wallet (cool) to recive and pay with Bitcoin or Dollars from any smart phone, more important the people do not need to have an internet plan to used the app.
 
-* The president has said the way they measure succesess is by reaching out it 70% of unbank comunites, also that is why he used the article 7,8, and 12 to pass and force the country to adpt of Bitcoin. The performance on Bitcoin Beach is fenomenal base on some article, other part of the country the are some protect, altought this come from the opposit party trying to overturn the President decision.
+* The president has said the way they measure succesess is by reaching out its 70% of unbank population, in one area that has adapted the best and can truely be measure is Bitcoin Beach, they are prerforming fenomenal. Although to fix the banking system the president had to force and mandate the new policy, by using the article (7, 8, and 12) in their costitution, however the opposite party wants to dismiss the results by protesting and trying to destablish the country.
 
 
 ## Recommendations
