@@ -4,13 +4,14 @@
 ## `El Salvador` and `Bitcoin`
 
 * Bitcoin legal tender in el Salvador
-* Bitcoin become a legal tender in el Salvador in Seotember, 7, 2021
+* Bitcoin become a legal tender in el Salvador in September, 7, 2021
 
 * The founder that help push Bitcoin becoming legal tender in el Salvador was propose by President Nayib Kuyele and pass by the majority `62 out of 84` of the congress of El Salvador
 
-* How did the idea for the company (or project) come about?
+* The idea of the project started in El Zonte (Bitcoin Beach) of when a annonymus donor gave a big doantion on crypocurrency to run an experiment and Michael Paterson an Vet surfer stated the project by promating and educating the local, alone with Jorge Venezuela the main leader on the community
 
-* How is the company funded? How much funding have they received?
+
+* To start the experiment was by a annonymus donor and the amount is unknow, however to legalice the entire country as a legal tender cost $238.3 millones dollars to it taxpayes
 
 
 ## Business Activities:
@@ -24,28 +25,31 @@
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Govenmental area, service the best interest of its people, 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* El Slavador is the first coubtry to adopt Bitcoin as legal tender, is a mixt feeling, howevcer the President had annount the he will build a city call Bitcoin city near a volcano to use it geothermal energy and it will be completly be founded by bitcoin, also he dream schools and hospital be build funded by Bitcoin
 
-* What are the other major companies in this domain?
+* other country adaoting to Bitcoin has not happend recetly, however there area lsit of country on serious talk like: Paraguay, Panama, Mexico, Venezuel, Brazil, Nicaragua, Argentina and Malta.
+
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The beggest impact the El Salvador has is that they change the fiancial system by reaching it 70% of unbank comunity, El Salvador develope alone the company Strick and app called el Chivo Wallet (cool) to recive and pay with Bitcoin or Dollars 
+The oposite party has oppose to the policy on the monetary system and the judiciary system.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* The president has said the way they measure succesess is by reaching out it 70% of unbank comunites, also that is why he used the article 7,8, and 12 to pass and force the country to adpt of Bitcoin. The performance on Bitcoin Beach is fenomenal base on some article, other part of the country the are some protect, altought this come from the opposit party trying to overturn the President decision.
 
-* How is your company performing relative to competitors in the same domain?
+
+
 
 
 ## Recommendations
-* The biggest recomendation to el Salvador will be to adapt satalite technology for it internet service, one potetial could be starlink, 
+* The biggest recomendation to el Salvador will be to adapt satalite technology for it internet service, one potetial could be starlink, this product the competitors will not be able to purchase or lease since the privide sector do care for it profits 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+* Why do you think that offering this product or service would benefit the companyrtwq?
 
 * What technologies would this additional product or service utilize?
 
@@ -57,7 +61,10 @@ uffffff
 - > https://www.investopedia.com/terms/o/open-banking.asp
 - > https://www.forbes.com/sites/martinrivers/2021/06/15/how-bitcoin-can-fix-global-inequality-one-developing-nation-at-a-time/?sh=41479362aa5f
 - > https://www.borgenmagazine.com/bitcoin-in-el-salvador/
-- > https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
-- > https://www.concourt.am/armenian/legal_resources/world_constitutions/constit/salvador/salvdr-s.htm
-- > https://cointelegraph.com/news/el-salvador-buys-a-smokin-hot-420-more-bitcoin
+- https://www.coindesk.com/layer2/2021/12/16/behind-the-scenes-of-el-salvadors-bitcoin-bond-with-the-man-who-designed-it/
+- https://www.concourt.am/armenian/legal_resources/world_constitutions/constit/salvador/salvdr-s.htm
+- https://cointelegraph.com/news/el-salvador-buys-a-smokin-hot-420-more-bitcoin
 todo bien
+- https://markets.businessinsider.com/news/currencies/el-salvador-bitcoin-beach-began-with-donated-crypto-fortune-2021-6
+- https://www.elsalvador.com/noticias/negocios/adopcion-bitcoin-cuesta-238-3-millones-salvadorenos/877400/2021/
+- https://www.cityam.com/more-countries-line-up-to-make-bitcoin-legal-tender-which-one-will-be-next/
